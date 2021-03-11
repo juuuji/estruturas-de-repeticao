@@ -3,7 +3,11 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro primeiro, segundo, proximoTermo, i
+		inteiro primeiro 
+		inteiro segundo
+		inteiro proximoTermo
+		inteiro i
+		
 		primeiro = 1
 		segundo = 0
 		proximoTermo = 0
